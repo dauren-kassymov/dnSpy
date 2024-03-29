@@ -61,6 +61,8 @@ namespace dnSpy.Contracts.Debugger.Engine {
 
 		/// <summary>
 		/// Raised when there's a new message. It can be raised on any thread.
+		/// ddd
+		/// ddd
 		/// </summary>
 		public abstract event EventHandler<DbgEngineMessage>? Message;
 
